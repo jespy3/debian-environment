@@ -5,7 +5,7 @@ Copy this repo to have a good foundational docker-based go scripting environment
 git clone git@github.com:jespy3/go-scripting-environment.git new-repo-name
 cp -r ./go-scripting-environment ./new-repo-name
 cd new-repo-name
-rm -rf .git      # to disassociate the 'go-scripting-environment' git files
+rm -rf .git      # to disassociate the 'debian-environment' git files
 ```
 
 ## Setup

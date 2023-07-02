@@ -1,13 +1,3 @@
-#services:
-#  box:
-#    image: python:3.10
-#    working_dir: /home/dev
-#    command: /bin/bash
-#    volumes:
-#      - $PWD:/home/dev
-#    stdin_open: true
-#    tty: true
-#
 services:
   box:
     build:
