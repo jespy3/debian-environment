@@ -1,6 +1,6 @@
 # debian-environment
 
-Copy this repo to have a good foundational docker-based go scripting environment using a command like:
+Copy this repo to have a good foundational docker-based debian environment using a command like:
 ```
 git clone git@github.com:jespy3/debian-environment.git new-repo-name
 cd new-repo-name
